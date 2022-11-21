@@ -65,7 +65,7 @@ li a:hover:not(.active) {
   <li><a href=vatreturnform.php>Vat Return Form</a></li>
 </ul>
 
-<h1>INVOICES</h1>
+<h1>TAX INVOICES</h1>
 
 <table id="invoices">
   <tr>
